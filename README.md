@@ -123,3 +123,22 @@ Jika semua data atau program input sudah selesai semua, user dapat menginputkan 
 
 
 ## FLOWCHART DAFTAR NILAI
+
+![gambar]()
+
+
+### Step 1 :
+Titik mulai sebuah program atau alur.
+
+### Step 2 :
+lalu lakukan inisialisasi dengan menampilkan menu yang tersedia.
+
+### Step 3 :
+Inputkan code menu yang ingin dilakukan, setiap code berisi [L]ihat, [T]ambah, [U]bah, [H]apus, [C]ari, [K]eluar.
+
+### Step 4 :
+Dalam kasus ini semua kemgkinan dapat terjadi, kondisi yang diperlukan sesuai apa yang akan diinoutkan user.
+
+- Jika [L]ihat, maka user akan di tampilkan sebuah tabel dari daftar nilai, namun jika tabel belum ada isi/kosong maka akan tampil tidak ada data, jika ada maka ditampilkan sebuah data nilai mahasiswa.
+
+- Jika [U]bah, sama dengan lihat 
