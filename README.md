@@ -147,6 +147,7 @@ Dalam kasus ini semua kemgkinan dapat terjadi, kondisi yang diperlukan sesuai ap
     - Nilai Tugas
     - Nilai UTS
     - Nilai UAS
+
 Lalu User akan diarahkan kembali ke inisialiasi menu.
 
 - Jika [U]bah, sama dengan [L]ihat jika tidak ada data nilai maka akan tampil tidak ada data nilai namun [U]bah kalau ada data nilai user diminta menginputkan Nomor urut yang akan diubah, setelah itu diminta untuk mengisi atau menginputkan data valid yang diubah. Setelah itu user kembali ke inisialisasi menu.
